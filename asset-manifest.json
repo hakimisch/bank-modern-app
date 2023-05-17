@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//hakimisch.github.io/bank-modern-app/static/css/main.b7d50e9d.css",
+    "main.js": "/http//hakimisch.github.io/bank-modern-app/static/js/main.3847ca81.js",
+    "static/media/laptop.jpg": "/http//hakimisch.github.io/bank-modern-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/http//hakimisch.github.io/bank-modern-app/index.html",
+    "main.b7d50e9d.css.map": "/http//hakimisch.github.io/bank-modern-app/static/css/main.b7d50e9d.css.map",
+    "main.3847ca81.js.map": "/http//hakimisch.github.io/bank-modern-app/static/js/main.3847ca81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d50e9d.css",
+    "static/js/main.3847ca81.js"
+  ]
+}
