@@ -14,11 +14,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +45,5 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
   },
-  "homepage": "http//hakimisch.github.io/bank-modern-app"
+  "homepage": "https//hakimisch.github.io/bank-modern-app"
 }
