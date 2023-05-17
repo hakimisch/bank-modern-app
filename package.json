@@ -2,6 +2,7 @@
   "name": "bank-modern-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https//hakimisch.github.io/bank-modern-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -44,6 +45,6 @@
     "gh-pages": "^5.0.0",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
-  },
-  "homepage": "https//hakimisch.github.io/bank-modern-app"
+  }
+
 }
