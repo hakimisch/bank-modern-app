@@ -19,7 +19,7 @@ const Navbar = () => {
                 <li className='p-4'>Contact</li>
             </ul>
             <div onClick={handleNav} className='block md:hidden'>
-                {!nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/>}
+                {nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20}/>}
             </div>
             <div className={!nav ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[rgb(47,52,68)] ease-in-out duration-500'  : 'fixed left-[-100%]' }>
                 <h1 className='w-full text-3xl font-bold text-[cyan] m-4'>REACT.</h1>
