@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/https//hakimisch.github.io/static/css/main.b7d50e9d.css",
-    "main.js": "/https//hakimisch.github.io/static/js/main.3f0b74d4.js",
-    "static/media/laptop.jpg": "/https//hakimisch.github.io/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "index.html": "/https//hakimisch.github.io/index.html",
-    "main.b7d50e9d.css.map": "/https//hakimisch.github.io/static/css/main.b7d50e9d.css.map",
-    "main.3f0b74d4.js.map": "/https//hakimisch.github.io/static/js/main.3f0b74d4.js.map"
+    "main.css": "/bank-modern-app/static/css/main.b7d50e9d.css",
+    "main.js": "/bank-modern-app/static/js/main.11146016.js",
+    "static/media/laptop.jpg": "/bank-modern-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/bank-modern-app/index.html",
+    "main.b7d50e9d.css.map": "/bank-modern-app/static/css/main.b7d50e9d.css.map",
+    "main.11146016.js.map": "/bank-modern-app/static/js/main.11146016.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d50e9d.css",
-    "static/js/main.3f0b74d4.js"
+    "static/js/main.11146016.js"
   ]
 }
