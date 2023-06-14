@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
             <div>
                 <h1 className='w-full text-3xl font-bold text-[cyan]'>REACT.</h1>
-                <p className="py-4">Lorem Ipsum something something Ei the realest muah (real)</p>
+                <p className="py-4">We would love to hear from you! If you have any questions, inquiries, or would like to explore how our Data Analytics Services can benefit your business, please don't hesitate to get in touch with us. Our dedicated team is here to assist you.</p>
                 <div className="flex justify-between md:w-[75%] my-6">
                     <FaFacebookSquare size={30} />
                     <FaInstagram size={30} />
