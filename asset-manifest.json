@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bank-modern-app/static/css/main.d7b1394c.css",
-    "main.js": "/bank-modern-app/static/js/main.e1c3ce87.js",
+    "main.css": "/bank-modern-app/static/css/main.afecabd2.css",
+    "main.js": "/bank-modern-app/static/js/main.e2ba861c.js",
     "static/media/laptop.jpg": "/bank-modern-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "static/media/single.png": "/bank-modern-app/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/double.png": "/bank-modern-app/static/media/double.8be045e6bb88be63d414.png",
     "static/media/triple.png": "/bank-modern-app/static/media/triple.4eb8f19f4b4647321484.png",
     "index.html": "/bank-modern-app/index.html",
-    "main.d7b1394c.css.map": "/bank-modern-app/static/css/main.d7b1394c.css.map",
-    "main.e1c3ce87.js.map": "/bank-modern-app/static/js/main.e1c3ce87.js.map"
+    "main.afecabd2.css.map": "/bank-modern-app/static/css/main.afecabd2.css.map",
+    "main.e2ba861c.js.map": "/bank-modern-app/static/js/main.e2ba861c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7b1394c.css",
-    "static/js/main.e1c3ce87.js"
+    "static/css/main.afecabd2.css",
+    "static/js/main.e2ba861c.js"
   ]
 }
